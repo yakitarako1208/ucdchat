@@ -1,17 +1,17 @@
-# your_container {
+#your_container {
     height: 600px;
     width: 50%;
 }
 
 /*チャットの外側部分１*/
-# bms_messages_container {
+#bms_messages_container {
     height: 100%;
     width: 100%;
     background-color: #eee;
 }
 
 /*ヘッダー部分*/
-# bms_chat_header {
+#bms_chat_header {
     padding: 6px;
     font-size: 16px;
     height: 34px;
@@ -38,7 +38,7 @@
     }
 
 /*タイムライン部分３*/
-# bms_messages {
+#bms_messages {
     overflow: auto; /*スクロールした時に、メッセージがタイムラインの外に出ないようにする*/
     height: 100%;
     border-right: 1px solid #ddd;
@@ -74,7 +74,7 @@
     }
 
 /*テキストエリア、送信ボタン４*/
-# bms_send {
+#bms_send {
     background-color: #eee;
     border-right: 1px solid #ddd;
     border-left: 1px solid #ddd;
