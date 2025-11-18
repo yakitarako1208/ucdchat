@@ -7,7 +7,7 @@
 #bms_messages_container {
     height: 100%;
     width: 100%;
-    background-color: #eee;
+    background-color: #94CFE8;
 }
 
 /*ヘッダー部分*/
@@ -43,7 +43,7 @@
     height: 100%;
     border-right: 1px solid #ddd;
     border-left: 1px solid #ddd;
-    background-color: #94CFE8;
+    background-color: #ddd;
     box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2) inset; /*ヘッダーの下に影*/
 }
 
