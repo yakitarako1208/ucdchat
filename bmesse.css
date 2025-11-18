@@ -28,7 +28,7 @@
     #bms_status_icon {
      float: left;
      line-height: 2em;
-     fill: #47c550;
+     background-color: #47c550;
     }
 
     /*ユーザ名*/
